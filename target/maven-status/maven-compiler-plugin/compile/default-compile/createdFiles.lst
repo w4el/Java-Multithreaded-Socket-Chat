@@ -1,0 +1,4 @@
+client\Client.class
+client\GUI.class
+client\Client$GUIUserIDProvider.class
+client\Client$UserIDProvider.class

@@ -1,0 +1,895 @@
+2024/03/21 02:24:44 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 02:24:44 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 02:24:58 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 02:24:58 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 02:24:58 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 02:25:00 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:25:00 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:25:03 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:25:03 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:25:11 [INCOMING] Received from ali: asd
+2024/03/21 02:25:11 [OUTGOING] Sent to wael: ali: asd
+2024/03/21 02:25:11 [OUTGOING] Broadcasted: ali: asd
+2024/03/21 02:25:14 [INCOMING] Received from ali: 
+2024/03/21 02:25:14 [OUTGOING] Sent to wael: ali: 
+2024/03/21 02:25:14 [OUTGOING] Broadcasted: ali: 
+2024/03/21 02:25:16 [INCOMING] Received from ali: asd
+2024/03/21 02:25:16 [OUTGOING] Sent to wael: ali: asd
+2024/03/21 02:25:16 [OUTGOING] Broadcasted: ali: asd
+2024/03/21 02:25:23 [INCOMING] Received from ali: QUIT
+2024/03/21 02:25:23 [OUTGOING] Session ended for user ali
+2024/03/21 02:25:23 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 02:25:23 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 02:26:16 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 02:26:16 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 02:26:33 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 02:26:33 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 02:26:33 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 02:26:36 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:26:36 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:26:37 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:26:37 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:26:39 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 02:26:39 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 02:26:42 [INCOMING] Received from ali: QUIT
+2024/03/21 02:26:42 [OUTGOING] Session ended for user ali
+2024/03/21 02:26:42 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 02:26:42 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 02:26:43 [INCOMING] Received from wael: QUIT
+2024/03/21 02:26:43 [OUTGOING] Session ended for user wael
+2024/03/21 02:26:43 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 02:27:55 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 02:27:55 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 02:28:27 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 02:28:27 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 02:28:27 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 02:28:34 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:28:34 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:28:35 [INCOMING] Received from ali: QUIT
+2024/03/21 02:28:35 [OUTGOING] Session ended for user ali
+2024/03/21 02:28:35 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 02:28:35 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 02:28:36 [INCOMING] Received from wael: QUIT
+2024/03/21 02:28:36 [OUTGOING] Session ended for user wael
+2024/03/21 02:28:36 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 02:29:50 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 02:29:50 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 02:30:05 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 02:30:05 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 02:30:05 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 02:30:08 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 02:30:08 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 02:30:46 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:30:46 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:30:47 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:30:47 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:30:49 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 02:30:49 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 02:30:50 [INCOMING] Received from ali: QUIT
+2024/03/21 02:30:50 [OUTGOING] Session ended for user ali
+2024/03/21 02:30:50 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 02:30:50 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 02:30:51 [INCOMING] Received from wael: QUIT
+2024/03/21 02:30:51 [OUTGOING] Session ended for user wael
+2024/03/21 02:30:51 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 02:50:39 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 02:50:39 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 02:50:49 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 02:50:49 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 02:50:49 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 02:50:53 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:50:53 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:50:54 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:50:54 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:50:54 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:50:54 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:50:54 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 02:50:54 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 02:50:57 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 02:50:57 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 02:51:37 [INCOMING] Received from wael: QUIT
+2024/03/21 02:51:37 [OUTGOING] Session ended for user wael
+2024/03/21 02:51:37 [OUTGOING] Sent to ali: SYSTEM: wael has left the chat.
+2024/03/21 02:51:37 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 02:51:37 [OUTGOING] Sent to ali: You are now the coordinator.
+2024/03/21 02:51:37 [OUTGOING] Sent to ali: SYSTEM: ali is now the coordinator.
+2024/03/21 02:51:37 [OUTGOING] System broadcast: ali is now the coordinator.
+2024/03/21 02:51:41 [INCOMING] Received from ali: QUIT
+2024/03/21 02:51:41 [OUTGOING] Session ended for user ali
+2024/03/21 02:51:41 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 03:00:39 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 03:00:39 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 03:00:48 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 03:00:48 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 03:00:48 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 03:00:49 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 03:00:49 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 03:00:51 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 03:00:51 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 03:00:53 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:00:53 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:00:54 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:00:54 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:00:56 [INCOMING] Received from ali: QUIT
+2024/03/21 03:00:56 [OUTGOING] Session ended for user ali
+2024/03/21 03:00:56 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 03:00:56 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 03:00:57 [INCOMING] Received from wael: QUIT
+2024/03/21 03:00:57 [OUTGOING] Session ended for user wael
+2024/03/21 03:00:57 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 03:03:13 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 03:03:13 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 03:03:15 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:03:23 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 03:03:23 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 03:03:23 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 03:03:25 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 03:03:25 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 03:03:26 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/21 03:03:26 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 50420
+ID: ali, IP: 127.0.0.1, Port: 50426
+COORDINATOR: wael
+2024/03/21 03:03:28 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:03:28 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:03:29 [INCOMING] Received from ali: PONG
+2024/03/21 03:03:29 [OUTGOING] Sent to wael: ali: PONG
+2024/03/21 03:03:29 [OUTGOING] Broadcasted: ali: PONG
+2024/03/21 03:03:35 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:03:35 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:03:55 [INCOMING] Received from ali: QUIT
+2024/03/21 03:03:55 [OUTGOING] Session ended for user ali
+2024/03/21 03:03:55 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 03:03:55 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 03:03:58 [INCOMING] Received from wael: QUIT
+2024/03/21 03:03:58 [OUTGOING] Session ended for user wael
+2024/03/21 03:03:58 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 03:05:55 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 03:05:55 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 03:05:57 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:06:09 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 03:06:09 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 03:06:09 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 03:06:11 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 03:06:11 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 03:06:12 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/21 03:06:12 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 50507
+ID: ali, IP: 127.0.0.1, Port: 50517
+COORDINATOR: wael
+2024/03/21 03:06:15 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:06:15 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:06:16 [INCOMING] Received from ali: PONG
+2024/03/21 03:06:16 [OUTGOING] Sent to wael: ali: PONG
+2024/03/21 03:06:16 [OUTGOING] Broadcasted: ali: PONG
+2024/03/21 03:06:18 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:06:18 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:06:38 [INCOMING] Received from ali: QUIT
+2024/03/21 03:06:38 [OUTGOING] Session ended for user ali
+2024/03/21 03:06:38 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 03:06:38 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 03:06:42 [INCOMING] Received from wael: QUIT
+2024/03/21 03:06:42 [OUTGOING] Session ended for user wael
+2024/03/21 03:06:42 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 03:22:55 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 03:22:55 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 03:23:13 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 03:23:13 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 03:23:13 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 03:23:15 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 03:23:15 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 03:23:17 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/21 03:23:17 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 50958
+ID: ali, IP: 127.0.0.1, Port: 50969
+COORDINATOR: wael
+2024/03/21 03:23:19 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:23:19 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:23:20 [INCOMING] Received from ali: PONG
+2024/03/21 03:23:20 [OUTGOING] Sent to wael: ali: PONG
+2024/03/21 03:23:20 [OUTGOING] Broadcasted: ali: PONG
+2024/03/21 03:23:22 [INCOMING] Received from ali: yoo
+2024/03/21 03:23:22 [OUTGOING] Sent to wael: ali: yoo
+2024/03/21 03:23:22 [OUTGOING] Broadcasted: ali: yoo
+2024/03/21 03:23:26 [INCOMING] Received from wael: yoo
+2024/03/21 03:23:26 [OUTGOING] Sent to ali: wael: yoo
+2024/03/21 03:23:26 [OUTGOING] Broadcasted: wael: yoo
+2024/03/21 03:23:28 [INCOMING] Received from wael: yoo
+2024/03/21 03:23:28 [OUTGOING] Sent to ali: wael: yoo
+2024/03/21 03:23:28 [OUTGOING] Broadcasted: wael: yoo
+2024/03/21 03:23:33 [INCOMING] Received from wael: @ali yo
+2024/03/21 03:23:33 [OUTGOING] Sent to ali: wael(private): yo
+2024/03/21 03:23:33 [OUTGOING] Private message handled for wael: @ali yo
+2024/03/21 03:23:51 [INCOMING] Received from ali: @wael yo
+2024/03/21 03:23:51 [OUTGOING] Sent to wael: ali(private): yo
+2024/03/21 03:23:51 [OUTGOING] Private message handled for ali: @wael yo
+2024/03/21 03:23:52 [INCOMING] Received from ali: @wael yo
+2024/03/21 03:23:52 [OUTGOING] Sent to wael: ali(private): yo
+2024/03/21 03:23:52 [OUTGOING] Private message handled for ali: @wael yo
+2024/03/21 03:24:06 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:24:06 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 03:24:09 [INCOMING] Received from wael: QUIT
+2024/03/21 03:24:09 [OUTGOING] Session ended for user wael
+2024/03/21 03:24:09 [OUTGOING] Sent to ali: SYSTEM: wael has left the chat.
+2024/03/21 03:24:09 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 03:24:09 [OUTGOING] Sent to ali: You are now the coordinator.
+2024/03/21 03:24:09 [OUTGOING] Sent to ali: SYSTEM: ali is now the coordinator.
+2024/03/21 03:24:09 [OUTGOING] System broadcast: ali is now the coordinator.
+2024/03/21 03:24:26 [INCOMING] Received from ali: QUIT
+2024/03/21 03:24:26 [OUTGOING] Session ended for user ali
+2024/03/21 03:24:26 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 03:39:37 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 03:39:37 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 03:39:39 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:39:47 [OUTGOING] Sent to alo: SYSTEM: alo has joined the chat.
+2024/03/21 03:39:47 [OUTGOING] Sent to wael: SYSTEM: alo has joined the chat.
+2024/03/21 03:39:47 [OUTGOING] System broadcast: alo has joined the chat.
+2024/03/21 03:39:51 [INCOMING] Received from alo: REQUEST_DETAILS
+2024/03/21 03:39:51 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM alo
+2024/03/21 03:39:52 [INCOMING] Received from wael: APPROVE_DETAILS alo
+2024/03/21 03:39:52 [OUTGOING] Sent to alo: MEMBER DETAILS:
+ID: alo, IP: 127.0.0.1, Port: 51407
+ID: wael, IP: 127.0.0.1, Port: 51400
+COORDINATOR: wael
+2024/03/21 03:39:56 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 03:39:56 [OUTGOING] Sent to alo: PING_REQUEST
+2024/03/21 03:39:58 [INCOMING] Received from alo: PONG
+2024/03/21 03:39:58 [OUTGOING] Sent to wael: alo: PONG
+2024/03/21 03:39:58 [OUTGOING] Broadcasted: alo: PONG
+2024/03/21 03:39:59 [INCOMING] Received from alo: QUIT
+2024/03/21 03:39:59 [OUTGOING] Session ended for user alo
+2024/03/21 03:39:59 [OUTGOING] Sent to wael: SYSTEM: alo has left the chat.
+2024/03/21 03:39:59 [OUTGOING] System broadcast: alo has left the chat.
+2024/03/21 03:40:00 [INCOMING] Received from wael: QUIT
+2024/03/21 03:40:00 [OUTGOING] Session ended for user wael
+2024/03/21 03:40:00 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/21 16:31:59 [OUTGOING] Sent to QUIT: SYSTEM: QUIT has joined the chat.
+2024/03/21 16:31:59 [OUTGOING] System broadcast: QUIT has joined the chat.
+2024/03/21 16:31:59 [OUTGOING] Session ended for user QUIT
+2024/03/21 16:31:59 [OUTGOING] System broadcast: QUIT has left the chat.
+2024/03/21 16:32:07 [OUTGOING] Sent to QUIT: SYSTEM: QUIT has joined the chat.
+2024/03/21 16:32:07 [OUTGOING] System broadcast: QUIT has joined the chat.
+2024/03/21 16:32:07 [OUTGOING] Session ended for user QUIT
+2024/03/21 16:32:07 [OUTGOING] System broadcast: QUIT has left the chat.
+2024/03/21 16:43:14 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/21 16:43:14 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/21 16:43:33 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/21 16:43:33 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/21 16:43:33 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/21 16:43:35 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/21 16:43:35 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/21 16:43:36 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/21 16:43:36 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 60418
+ID: ali, IP: 127.0.0.1, Port: 60424
+COORDINATOR: wael
+2024/03/21 16:43:39 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/21 16:43:39 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/21 16:43:42 [INCOMING] Received from ali: PONG
+2024/03/21 16:43:42 [OUTGOING] Sent to wael: ali: PONG
+2024/03/21 16:43:42 [OUTGOING] Broadcasted: ali: PONG
+2024/03/21 16:43:43 [INCOMING] Received from ali: QUIT
+2024/03/21 16:43:43 [OUTGOING] Session ended for user ali
+2024/03/21 16:43:43 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/21 16:43:43 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/21 16:43:44 [INCOMING] Received from wael: QUIT
+2024/03/21 16:43:44 [OUTGOING] Session ended for user wael
+2024/03/21 16:43:44 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/25 14:59:25 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/25 14:59:25 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/25 14:59:34 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/25 14:59:34 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/25 14:59:34 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/25 14:59:42 [OUTGOING] Session ended for user ali
+2024/03/25 14:59:42 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/25 14:59:42 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/25 14:59:59 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/25 14:59:59 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/25 14:59:59 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/25 15:00:36 [INCOMING] Received from ali: QUIT
+2024/03/25 15:00:36 [OUTGOING] Session ended for user ali
+2024/03/25 15:00:36 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/25 15:00:36 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/25 15:00:36 [INCOMING] Received from ali: QUIT
+2024/03/25 15:00:37 [INCOMING] Received from wael: QUIT
+2024/03/25 15:00:37 [OUTGOING] Session ended for user wael
+2024/03/25 15:00:37 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/25 15:27:27 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/25 15:27:27 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/25 15:27:35 [INCOMING] Received from wael: yoo
+2024/03/25 15:27:35 [OUTGOING] Broadcasted: wael: yoo
+2024/03/25 15:27:37 [INCOMING] Received from wael: QUIT
+2024/03/25 15:27:37 [OUTGOING] Session ended for user wael
+2024/03/25 15:27:37 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/25 17:11:21 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/25 17:11:21 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/25 17:11:32 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/25 17:11:32 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/25 17:11:32 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/25 17:11:39 [INCOMING] Received from wael: yo
+2024/03/25 17:11:39 [OUTGOING] Sent to ali: wael: yo
+2024/03/25 17:11:39 [OUTGOING] Broadcasted: wael: yo
+2024/03/25 17:11:40 [INCOMING] Received from wael: yo
+2024/03/25 17:11:40 [OUTGOING] Sent to ali: wael: yo
+2024/03/25 17:11:40 [OUTGOING] Broadcasted: wael: yo
+2024/03/25 17:11:43 [INCOMING] Received from wael: hi
+2024/03/25 17:11:43 [OUTGOING] Sent to ali: wael: hi
+2024/03/25 17:11:43 [OUTGOING] Broadcasted: wael: hi
+2024/03/25 17:11:46 [INCOMING] Received from ali: yoo
+2024/03/25 17:11:46 [OUTGOING] Sent to wael: ali: yoo
+2024/03/25 17:11:46 [OUTGOING] Broadcasted: ali: yoo
+2024/03/25 17:11:50 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/25 17:11:50 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/25 17:11:51 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/25 17:11:51 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 49239
+ID: ali, IP: 127.0.0.1, Port: 49247
+COORDINATOR: wael
+2024/03/25 17:11:53 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/25 17:11:53 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/25 17:11:54 [INCOMING] Received from ali: PONG
+2024/03/25 17:11:54 [OUTGOING] Sent to wael: ali: PONG
+2024/03/25 17:11:54 [OUTGOING] Broadcasted: ali: PONG
+2024/03/25 17:11:55 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/25 17:11:55 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/25 17:11:57 [INCOMING] Received from ali: QUIT
+2024/03/25 17:11:57 [OUTGOING] Session ended for user ali
+2024/03/25 17:11:57 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/25 17:11:57 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/25 17:11:58 [INCOMING] Received from wael: QUIT
+2024/03/25 17:11:58 [OUTGOING] Session ended for user wael
+2024/03/25 17:11:58 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/25 18:52:47 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/25 18:52:47 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/25 18:53:00 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/25 18:53:00 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/25 18:53:00 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/25 18:53:09 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/25 18:53:09 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/25 18:53:10 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/25 18:53:10 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 54595
+ID: ali, IP: 127.0.0.1, Port: 54603
+COORDINATOR: wael
+2024/03/25 18:53:11 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/25 18:53:11 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/25 18:53:12 [INCOMING] Received from ali: PONG
+2024/03/25 18:53:12 [OUTGOING] Sent to wael: ali: PONG
+2024/03/25 18:53:12 [OUTGOING] Broadcasted: ali: PONG
+2024/03/25 18:53:15 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/25 18:53:15 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/25 18:53:35 [INCOMING] Received from ali: QUIT
+2024/03/25 18:53:35 [OUTGOING] Session ended for user ali
+2024/03/25 18:53:35 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/25 18:53:35 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/25 18:53:41 [INCOMING] Received from wael: QUIT
+2024/03/25 18:53:41 [OUTGOING] Session ended for user wael
+2024/03/25 18:53:41 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/25 19:17:34 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:17:34 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:17:34 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:17:34 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:17:34 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 19:21:52 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:21:52 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:21:52 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:21:52 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:21:52 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 19:23:44 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:23:44 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:23:44 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:23:44 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:23:44 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 19:24:53 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:24:53 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:24:53 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:24:53 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:24:53 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 19:27:13 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:27:13 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:27:13 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:27:13 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:27:13 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 19:29:39 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:29:39 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:29:39 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:29:39 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:29:39 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 19:39:34 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:39:34 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:39:34 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:39:34 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:39:34 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 19:41:09 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 19:41:09 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 19:41:09 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 19:41:09 [OUTGOING] Session ended for user uniqueID
+2024/03/25 19:41:09 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:10:04 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:10:04 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:10:04 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:10:04 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:10:04 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:10:16 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:10:16 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:10:16 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:10:16 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:10:16 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:10:53 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:10:53 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:10:53 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:10:53 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:10:53 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:11:29 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:11:29 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:11:29 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:11:29 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:11:29 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:12:03 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:12:03 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:12:03 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:12:03 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:12:03 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:12:37 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:12:37 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:12:37 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:12:37 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:12:37 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:13:07 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:13:07 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:13:07 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:13:07 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:13:07 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:13:47 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:13:47 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:13:47 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:13:47 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:13:47 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:17:27 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:17:27 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:17:27 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:17:27 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:17:27 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:17:42 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:17:42 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:17:42 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:17:42 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:17:42 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:37:19 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:37:19 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:37:19 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:37:19 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:37:19 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:38:42 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:38:42 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:38:42 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:38:42 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:38:42 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:39:41 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:39:41 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:39:41 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:39:41 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:39:41 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/25 20:39:52 [OUTGOING] Sent to uniqueID: SYSTEM: uniqueID has joined the chat.
+2024/03/25 20:39:52 [OUTGOING] System broadcast: uniqueID has joined the chat.
+2024/03/25 20:39:52 [INCOMING] Received from uniqueID: QUIT
+2024/03/25 20:39:52 [OUTGOING] Session ended for user uniqueID
+2024/03/25 20:39:52 [OUTGOING] System broadcast: uniqueID has left the chat.
+2024/03/26 17:30:51 [OUTGOING] Private message handled for user1: @user2 Hello
+2024/03/26 17:30:51 [OUTGOING] Sent to user2: Test Message
+2024/03/26 17:34:59 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/26 17:34:59 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/26 17:35:14 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/26 17:35:14 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/26 17:35:14 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/26 17:35:20 [INCOMING] Received from ali: sdfsdf
+2024/03/26 17:35:20 [OUTGOING] Sent to wael: ali: sdfsdf
+2024/03/26 17:35:20 [OUTGOING] Broadcasted: ali: sdfsdf
+2024/03/26 17:35:23 [INCOMING] Received from wael: sdfsdf
+2024/03/26 17:35:23 [OUTGOING] Sent to ali: wael: sdfsdf
+2024/03/26 17:35:23 [OUTGOING] Broadcasted: wael: sdfsdf
+2024/03/26 17:35:24 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/26 17:35:24 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/26 17:35:26 [INCOMING] Received from ali: PONG
+2024/03/26 17:35:26 [OUTGOING] Sent to wael: ali: PONG
+2024/03/26 17:35:26 [OUTGOING] Broadcasted: ali: PONG
+2024/03/26 17:35:26 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/26 17:35:26 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/26 17:35:27 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/26 17:35:27 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 54810
+ID: ali, IP: 127.0.0.1, Port: 54821
+COORDINATOR: wael
+2024/03/26 17:35:28 [INCOMING] Received from wael: QUIT
+2024/03/26 17:35:28 [OUTGOING] Session ended for user wael
+2024/03/26 17:35:28 [OUTGOING] Sent to ali: SYSTEM: wael has left the chat.
+2024/03/26 17:35:28 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/26 17:35:28 [OUTGOING] Sent to ali: You are now the coordinator.
+2024/03/26 17:35:28 [OUTGOING] Sent to ali: SYSTEM: ali is now the coordinator.
+2024/03/26 17:35:29 [OUTGOING] System broadcast: ali is now the coordinator.
+2024/03/26 17:35:29 [INCOMING] Received from ali: QUIT
+2024/03/26 17:35:29 [OUTGOING] Session ended for user ali
+2024/03/26 17:35:29 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/26 17:36:21 [OUTGOING] Private message handled for user1: @user2 Hello
+2024/03/26 17:36:21 [OUTGOING] Sent to user2: Test Message
+2024/03/26 17:52:49 [OUTGOING] Private message handled for user1: @user2 Hello
+2024/03/26 17:52:49 [OUTGOING] Sent to user2: Test Message
+2024/03/26 18:01:46 [OUTGOING] Private message handled for user1: @user2 Hello
+2024/03/26 18:01:47 [OUTGOING] Sent to user2: Test Message
+2024/03/26 18:02:09 [OUTGOING] Private message handled for user1: @user2 Hello
+2024/03/26 18:02:32 [OUTGOING] Sent to user2: Test Message
+2024/03/26 18:07:04 [OUTGOING] Sent to user2: Test Message
+2024/03/26 18:11:26 [OUTGOING] Sent to user2: Test Message
+2024/03/26 18:36:47 [OUTGOING] Sent to user2: Test Message
+2024/03/26 19:55:49 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 19:55:49 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 19:55:49 [OUTGOING] Session ended for user UserID
+2024/03/26 19:55:49 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 19:56:24 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 19:56:24 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 19:56:24 [OUTGOING] Session ended for user UserID
+2024/03/26 19:56:24 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:00:16 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:00:16 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:00:16 [OUTGOING] Session ended for user UserID
+2024/03/26 20:00:16 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:02:40 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:02:40 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:02:40 [OUTGOING] Session ended for user UserID
+2024/03/26 20:02:40 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:19:13 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:19:13 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:19:13 [OUTGOING] Session ended for user UserID
+2024/03/26 20:19:13 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:25:13 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:25:13 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:25:13 [OUTGOING] Session ended for user UserID
+2024/03/26 20:25:13 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:26:24 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:26:24 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:26:24 [OUTGOING] Session ended for user UserID
+2024/03/26 20:26:24 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:26:56 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:26:56 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:26:56 [OUTGOING] Session ended for user UserID
+2024/03/26 20:26:56 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:28:16 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:28:16 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:28:16 [OUTGOING] Session ended for user UserID
+2024/03/26 20:28:16 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:28:26 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:28:26 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:28:26 [OUTGOING] Session ended for user UserID
+2024/03/26 20:28:26 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:29:12 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:29:12 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:29:12 [OUTGOING] Session ended for user UserID
+2024/03/26 20:29:12 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:29:45 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:29:45 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:29:45 [OUTGOING] Session ended for user UserID
+2024/03/26 20:29:45 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:30:32 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:30:32 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:30:32 [OUTGOING] Session ended for user UserID
+2024/03/26 20:30:32 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:31:03 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:31:03 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:31:03 [OUTGOING] Session ended for user UserID
+2024/03/26 20:31:03 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:33:25 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:33:25 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:33:25 [OUTGOING] Session ended for user UserID
+2024/03/26 20:33:25 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:34:06 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:34:06 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:34:06 [OUTGOING] Session ended for user UserID
+2024/03/26 20:34:06 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:36:53 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:36:53 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:36:53 [INCOMING] Received from UserID: QUIT
+2024/03/26 20:36:53 [OUTGOING] Session ended for user UserID
+2024/03/26 20:36:53 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:40:01 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:40:01 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:40:01 [INCOMING] Received from UserID: QUIT
+2024/03/26 20:40:01 [OUTGOING] Session ended for user UserID
+2024/03/26 20:40:01 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:42:41 [OUTGOING] Sent to UserID: SYSTEM: UserID has joined the chat.
+2024/03/26 20:42:41 [OUTGOING] System broadcast: UserID has joined the chat.
+2024/03/26 20:42:41 [INCOMING] Received from UserID: QUIT
+2024/03/26 20:42:41 [OUTGOING] Session ended for user UserID
+2024/03/26 20:42:41 [OUTGOING] System broadcast: UserID has left the chat.
+2024/03/26 20:48:19 [OUTGOING] Sent to user1: Test Message
+2024/03/26 21:05:30 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:05:30 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:05:30 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:05:30 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:05:30 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:05:30 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:06:05 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:06:05 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:06:05 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:06:05 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:06:05 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:06:05 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:06:22 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:06:22 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:06:22 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:06:22 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:06:22 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:06:22 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:21:04 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:21:04 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:21:04 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:21:04 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:21:04 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:21:04 [OUTGOING] Sent to QUIT: SYSTEM: QUIT has joined the chat.
+2024/03/26 21:21:04 [OUTGOING] Sent to null: SYSTEM: QUIT has joined the chat.
+2024/03/26 21:21:04 [OUTGOING] System broadcast: QUIT has joined the chat.
+2024/03/26 21:21:04 [OUTGOING] Session ended for user QUIT
+2024/03/26 21:21:04 [OUTGOING] Sent to null: SYSTEM: QUIT has left the chat.
+2024/03/26 21:21:04 [OUTGOING] System broadcast: QUIT has left the chat.
+2024/03/26 21:21:04 [OUTGOING] Sent to null: You are now the coordinator.
+2024/03/26 21:21:04 [OUTGOING] Sent to null: SYSTEM: null is now the coordinator.
+2024/03/26 21:21:04 [OUTGOING] System broadcast: null is now the coordinator.
+2024/03/26 21:21:04 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:23:19 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:23:19 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:23:19 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:23:19 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:23:19 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:23:19 [OUTGOING] Sent to QUIT: SYSTEM: QUIT has joined the chat.
+2024/03/26 21:23:19 [OUTGOING] System broadcast: QUIT has joined the chat.
+2024/03/26 21:23:19 [OUTGOING] Session ended for user QUIT
+2024/03/26 21:23:19 [OUTGOING] System broadcast: QUIT has left the chat.
+2024/03/26 21:23:19 [OUTGOING] System broadcast: null is now the coordinator.
+2024/03/26 21:23:19 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:24:16 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:24:16 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:24:16 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:24:16 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:24:16 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:24:16 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:25:49 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:25:49 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:25:49 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:25:49 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:25:49 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:25:49 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:25:49 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:25:49 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:26:58 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:26:58 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:26:58 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:26:58 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:26:58 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:26:58 [OUTGOING] Sent to null: Test Message
+2024/03/26 21:26:58 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:26:58 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:27:38 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/26 21:27:38 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/26 21:27:38 [INCOMING] Received from TestUser: QUIT
+2024/03/26 21:27:38 [OUTGOING] Session ended for user TestUser
+2024/03/26 21:27:38 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/26 21:27:38 [OUTGOING] Sent to null: Test Message
+2024/03/28 14:04:55 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/28 14:04:55 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/28 14:04:55 [INCOMING] Received from TestUser: QUIT
+2024/03/28 14:04:55 [OUTGOING] Session ended for user TestUser
+2024/03/28 14:04:55 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/28 14:04:55 [OUTGOING] Sent to null: Test Message
+2024/03/28 14:04:55 [OUTGOING] Session ended for user TestUser
+2024/03/28 14:04:55 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/28 16:29:53 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/03/28 16:29:53 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/03/28 16:29:53 [INCOMING] Received from TestUser: QUIT
+2024/03/28 16:29:53 [OUTGOING] Session ended for user TestUser
+2024/03/28 16:29:53 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/28 16:29:53 [OUTGOING] Sent to null: Test Message
+2024/03/28 16:29:54 [OUTGOING] Session ended for user TestUser
+2024/03/28 16:29:54 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/03/28 16:51:36 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/28 16:51:36 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/28 16:51:46 [OUTGOING] Sent to wael: SYSTEM: leo has joined the chat.
+2024/03/28 16:51:46 [OUTGOING] Sent to leo: SYSTEM: leo has joined the chat.
+2024/03/28 16:51:46 [OUTGOING] System broadcast: leo has joined the chat.
+2024/03/28 16:52:00 [INCOMING] Received from leo: REQUEST_DETAILS
+2024/03/28 16:52:00 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM leo
+2024/03/28 16:52:05 [INCOMING] Received from wael: APPROVE_DETAILS leo
+2024/03/28 16:52:05 [OUTGOING] Sent to leo: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 60611
+ID: leo, IP: 127.0.0.1, Port: 60618
+COORDINATOR: wael
+2024/03/28 16:52:08 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/28 16:52:08 [OUTGOING] Sent to leo: PING_REQUEST
+2024/03/28 16:52:11 [INCOMING] Received from leo: PONG
+2024/03/28 16:52:11 [OUTGOING] Sent to wael: leo: PONG
+2024/03/28 16:52:11 [OUTGOING] Broadcasted: leo: PONG
+2024/03/28 16:52:13 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/28 16:52:13 [OUTGOING] Sent to leo: PING_REQUEST
+2024/03/28 16:52:32 [INCOMING] Received from wael: @leo hi
+2024/03/28 16:52:32 [OUTGOING] Sent to leo: wael(private): hi
+2024/03/28 16:52:32 [OUTGOING] Private message handled for wael: @leo hi
+2024/03/28 16:52:33 [INCOMING] Received from leo: QUIT
+2024/03/28 16:52:33 [OUTGOING] Session ended for user leo
+2024/03/28 16:52:33 [OUTGOING] Sent to wael: SYSTEM: leo has left the chat.
+2024/03/28 16:52:33 [OUTGOING] System broadcast: leo has left the chat.
+2024/03/28 16:53:30 [OUTGOING] Sent to wael: SYSTEM: leo has joined the chat.
+2024/03/28 16:53:30 [OUTGOING] Sent to leo: SYSTEM: leo has joined the chat.
+2024/03/28 16:53:30 [OUTGOING] System broadcast: leo has joined the chat.
+2024/03/28 16:53:34 [INCOMING] Received from wael: QUIT
+2024/03/28 16:53:34 [OUTGOING] Session ended for user wael
+2024/03/28 16:53:34 [OUTGOING] Sent to leo: SYSTEM: wael has left the chat.
+2024/03/28 16:53:34 [OUTGOING] System broadcast: wael has left the chat.
+2024/03/28 16:53:34 [OUTGOING] Sent to leo: You are now the coordinator.
+2024/03/28 16:53:34 [OUTGOING] Sent to leo: SYSTEM: leo is now the coordinator.
+2024/03/28 16:53:34 [OUTGOING] System broadcast: leo is now the coordinator.
+2024/03/28 16:53:38 [INCOMING] Received from leo: QUIT
+2024/03/28 16:53:38 [OUTGOING] Session ended for user leo
+2024/03/28 16:53:38 [OUTGOING] System broadcast: leo has left the chat.
+2024/03/29 00:28:21 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/03/29 00:28:21 [OUTGOING] System broadcast: wael has joined the chat.
+2024/03/29 00:28:37 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/03/29 00:28:37 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/03/29 00:28:37 [OUTGOING] System broadcast: ali has joined the chat.
+2024/03/29 00:28:42 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/29 00:28:42 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/29 00:28:43 [INCOMING] Received from ali: PONG
+2024/03/29 00:28:43 [OUTGOING] Sent to wael: ali: PONG
+2024/03/29 00:28:43 [OUTGOING] Broadcasted: ali: PONG
+2024/03/29 00:28:45 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/03/29 00:28:45 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/03/29 00:28:47 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/03/29 00:28:47 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 55025
+ID: ali, IP: 127.0.0.1, Port: 55029
+COORDINATOR: wael
+2024/03/29 00:28:54 [INCOMING] Received from wael: PING_MEMBERS
+2024/03/29 00:28:54 [OUTGOING] Sent to ali: PING_REQUEST
+2024/03/29 00:29:14 [INCOMING] Received from ali: QUIT
+2024/03/29 00:29:14 [OUTGOING] Session ended for user ali
+2024/03/29 00:29:14 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/03/29 00:29:14 [OUTGOING] System broadcast: ali has left the chat.
+2024/03/29 00:29:15 [INCOMING] Received from wael: QUIT
+2024/03/29 00:29:15 [OUTGOING] Session ended for user wael
+2024/03/29 00:29:15 [OUTGOING] System broadcast: wael has left the chat.
+2024/04/05 15:46:47 [OUTGOING] Sent to TestUser: SYSTEM: TestUser has joined the chat.
+2024/04/05 15:46:47 [OUTGOING] System broadcast: TestUser has joined the chat.
+2024/04/05 15:46:47 [INCOMING] Received from TestUser: QUIT
+2024/04/05 15:46:47 [OUTGOING] Session ended for user TestUser
+2024/04/05 15:46:47 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/04/05 15:46:47 [OUTGOING] Sent to null: Test Message
+2024/04/05 15:46:47 [OUTGOING] Session ended for user TestUser
+2024/04/05 15:46:47 [OUTGOING] System broadcast: TestUser has left the chat.
+2024/04/05 17:11:58 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/04/05 17:11:58 [OUTGOING] System broadcast: wael has joined the chat.
+2024/04/05 17:12:24 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/04/05 17:12:24 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/04/05 17:12:24 [OUTGOING] System broadcast: ali has joined the chat.
+2024/04/05 17:12:49 [OUTGOING] Sent to wael: SYSTEM: leonid has joined the chat.
+2024/04/05 17:12:49 [OUTGOING] Sent to leonid: SYSTEM: leonid has joined the chat.
+2024/04/05 17:12:49 [OUTGOING] Sent to ali: SYSTEM: leonid has joined the chat.
+2024/04/05 17:12:49 [OUTGOING] System broadcast: leonid has joined the chat.
+2024/04/05 17:13:41 [INCOMING] Received from wael: hello
+2024/04/05 17:13:41 [OUTGOING] Sent to leonid: wael: hello
+2024/04/05 17:13:41 [OUTGOING] Sent to ali: wael: hello
+2024/04/05 17:13:41 [OUTGOING] Broadcasted: wael: hello
+2024/04/05 17:14:25 [INCOMING] Received from wael: @ali hello test
+2024/04/05 17:14:25 [OUTGOING] Sent to ali: wael(private): hello test
+2024/04/05 17:14:25 [OUTGOING] Private message handled for wael: @ali hello test
+2024/04/05 17:14:47 [INCOMING] Received from leonid: hello
+2024/04/05 17:14:47 [OUTGOING] Sent to wael: leonid: hello
+2024/04/05 17:14:47 [OUTGOING] Sent to ali: leonid: hello
+2024/04/05 17:14:47 [OUTGOING] Broadcasted: leonid: hello
+2024/04/05 17:15:00 [INCOMING] Received from leonid: @wael test
+2024/04/05 17:15:00 [OUTGOING] Sent to wael: leonid(private): test
+2024/04/05 17:15:00 [OUTGOING] Private message handled for leonid: @wael test
+2024/04/05 17:15:24 [INCOMING] Received from leonid: QUIT
+2024/04/05 17:15:24 [OUTGOING] Session ended for user leonid
+2024/04/05 17:15:24 [OUTGOING] Sent to wael: SYSTEM: leonid has left the chat.
+2024/04/05 17:15:24 [OUTGOING] Sent to ali: SYSTEM: leonid has left the chat.
+2024/04/05 17:15:24 [OUTGOING] System broadcast: leonid has left the chat.
+2024/04/05 17:15:34 [INCOMING] Received from ali: hello
+2024/04/05 17:15:34 [OUTGOING] Sent to wael: ali: hello
+2024/04/05 17:15:34 [OUTGOING] Broadcasted: ali: hello
+2024/04/05 17:15:40 [INCOMING] Received from wael: hello
+2024/04/05 17:15:40 [OUTGOING] Sent to ali: wael: hello
+2024/04/05 17:15:40 [OUTGOING] Broadcasted: wael: hello
+2024/04/05 17:15:47 [INCOMING] Received from wael: @ali hello
+2024/04/05 17:15:47 [OUTGOING] Sent to ali: wael(private): hello
+2024/04/05 17:15:47 [OUTGOING] Private message handled for wael: @ali hello
+2024/04/05 17:16:33 [OUTGOING] Sent to wael: SYSTEM: leonid has joined the chat.
+2024/04/05 17:16:33 [OUTGOING] Sent to leonid: SYSTEM: leonid has joined the chat.
+2024/04/05 17:16:33 [OUTGOING] Sent to ali: SYSTEM: leonid has joined the chat.
+2024/04/05 17:16:33 [OUTGOING] System broadcast: leonid has joined the chat.
+2024/04/05 17:17:28 [INCOMING] Received from wael: PING_MEMBERS
+2024/04/05 17:17:28 [OUTGOING] Sent to leonid: PING_REQUEST
+2024/04/05 17:17:28 [OUTGOING] Sent to ali: PING_REQUEST
+2024/04/05 17:17:33 [INCOMING] Received from leonid: PONG
+2024/04/05 17:17:33 [OUTGOING] Sent to wael: leonid: PONG
+2024/04/05 17:17:33 [OUTGOING] Sent to ali: leonid: PONG
+2024/04/05 17:17:33 [OUTGOING] Broadcasted: leonid: PONG
+2024/04/05 17:17:48 [INCOMING] Received from ali: QUIT
+2024/04/05 17:17:48 [OUTGOING] Session ended for user ali
+2024/04/05 17:17:48 [OUTGOING] Sent to wael: SYSTEM: ali has left the chat.
+2024/04/05 17:17:48 [OUTGOING] Sent to leonid: SYSTEM: ali has left the chat.
+2024/04/05 17:17:48 [OUTGOING] System broadcast: ali has left the chat.
+2024/04/05 17:18:17 [INCOMING] Received from leonid: REQUEST_DETAILS
+2024/04/05 17:18:17 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM leonid
+2024/04/05 17:18:25 [INCOMING] Received from wael: APPROVE_DETAILS leonid
+2024/04/05 17:18:25 [OUTGOING] Sent to leonid: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 53852
+ID: leonid, IP: 127.0.0.1, Port: 53891
+COORDINATOR: wael
+2024/04/05 17:19:01 [INCOMING] Received from wael: QUIT
+2024/04/05 17:19:01 [OUTGOING] Session ended for user wael
+2024/04/05 17:19:01 [OUTGOING] Sent to leonid: SYSTEM: wael has left the chat.
+2024/04/05 17:19:01 [OUTGOING] System broadcast: wael has left the chat.
+2024/04/05 17:19:01 [OUTGOING] Sent to leonid: You are now the coordinator.
+2024/04/05 17:19:01 [OUTGOING] Sent to leonid: SYSTEM: leonid is now the coordinator.
+2024/04/05 17:19:01 [OUTGOING] System broadcast: leonid is now the coordinator.
+2024/04/05 17:19:14 [INCOMING] Received from leonid: QUIT
+2024/04/05 17:19:14 [OUTGOING] Session ended for user leonid
+2024/04/05 17:19:14 [OUTGOING] System broadcast: leonid has left the chat.
+2024/04/05 20:45:41 [OUTGOING] Sent to wael: SYSTEM: wael has joined the chat.
+2024/04/05 20:45:41 [OUTGOING] System broadcast: wael has joined the chat.
+2024/04/05 20:45:58 [OUTGOING] Sent to wael: SYSTEM: ali has joined the chat.
+2024/04/05 20:45:58 [OUTGOING] Sent to ali: SYSTEM: ali has joined the chat.
+2024/04/05 20:45:58 [OUTGOING] System broadcast: ali has joined the chat.
+2024/04/05 20:46:11 [OUTGOING] Sent to wael: SYSTEM: leo has joined the chat.
+2024/04/05 20:46:11 [OUTGOING] Sent to leo: SYSTEM: leo has joined the chat.
+2024/04/05 20:46:11 [OUTGOING] Sent to ali: SYSTEM: leo has joined the chat.
+2024/04/05 20:46:11 [OUTGOING] System broadcast: leo has joined the chat.
+2024/04/05 20:46:27 [INCOMING] Received from wael: PING_MEMBERS
+2024/04/05 20:46:27 [OUTGOING] Sent to leo: PING_REQUEST
+2024/04/05 20:46:27 [OUTGOING] Sent to ali: PING_REQUEST
+2024/04/05 20:46:32 [INCOMING] Received from ali: PONG
+2024/04/05 20:46:32 [OUTGOING] Sent to wael: ali: PONG
+2024/04/05 20:46:32 [OUTGOING] Sent to leo: ali: PONG
+2024/04/05 20:46:32 [OUTGOING] Broadcasted: ali: PONG
+2024/04/05 20:46:47 [INCOMING] Received from leo: QUIT
+2024/04/05 20:46:47 [OUTGOING] Session ended for user leo
+2024/04/05 20:46:47 [OUTGOING] Sent to wael: SYSTEM: leo has left the chat.
+2024/04/05 20:46:47 [OUTGOING] Sent to ali: SYSTEM: leo has left the chat.
+2024/04/05 20:46:47 [OUTGOING] System broadcast: leo has left the chat.
+2024/04/05 20:46:58 [OUTGOING] Sent to wael: SYSTEM: leo has joined the chat.
+2024/04/05 20:46:58 [OUTGOING] Sent to leo: SYSTEM: leo has joined the chat.
+2024/04/05 20:46:58 [OUTGOING] Sent to ali: SYSTEM: leo has joined the chat.
+2024/04/05 20:46:58 [OUTGOING] System broadcast: leo has joined the chat.
+2024/04/05 20:47:09 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/04/05 20:47:09 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/04/05 20:47:16 [INCOMING] Received from wael: APPROVE_DETAILS ali
+2024/04/05 20:47:16 [OUTGOING] Sent to ali: MEMBER DETAILS:
+ID: wael, IP: 127.0.0.1, Port: 50735
+ID: leo, IP: 127.0.0.1, Port: 50745
+ID: ali, IP: 127.0.0.1, Port: 50738
+COORDINATOR: wael
+2024/04/05 20:47:27 [INCOMING] Received from ali: REQUEST_DETAILS
+2024/04/05 20:47:27 [OUTGOING] Sent to wael: DETAILS_REQUEST_FROM ali
+2024/04/05 20:47:29 [INCOMING] Received from wael: DENY_DETAILS ali
+2024/04/05 20:47:29 [OUTGOING] Sent to ali: DETAILS_DENIED
+2024/04/05 20:47:41 [INCOMING] Received from leo: QUIT
+2024/04/05 20:47:41 [OUTGOING] Session ended for user leo
+2024/04/05 20:47:41 [OUTGOING] Sent to wael: SYSTEM: leo has left the chat.
+2024/04/05 20:47:41 [OUTGOING] Sent to ali: SYSTEM: leo has left the chat.
+2024/04/05 20:47:41 [OUTGOING] System broadcast: leo has left the chat.
+2024/04/05 20:47:44 [INCOMING] Received from wael: dfsdf
+2024/04/05 20:47:44 [OUTGOING] Sent to ali: wael: dfsdf
+2024/04/05 20:47:44 [OUTGOING] Broadcasted: wael: dfsdf
+2024/04/05 20:47:47 [INCOMING] Received from ali: test
+2024/04/05 20:47:47 [OUTGOING] Sent to wael: ali: test
+2024/04/05 20:47:47 [OUTGOING] Broadcasted: ali: test
+2024/04/05 20:48:01 [INCOMING] Received from wael: @ali test
+2024/04/05 20:48:01 [OUTGOING] Sent to ali: wael(private): test
+2024/04/05 20:48:01 [OUTGOING] Private message handled for wael: @ali test
+2024/04/05 20:48:16 [INCOMING] Received from wael: QUIT
+2024/04/05 20:48:16 [OUTGOING] Session ended for user wael
+2024/04/05 20:48:16 [OUTGOING] Sent to ali: SYSTEM: wael has left the chat.
+2024/04/05 20:48:16 [OUTGOING] System broadcast: wael has left the chat.
+2024/04/05 20:48:16 [OUTGOING] Sent to ali: You are now the coordinator.
+2024/04/05 20:48:16 [OUTGOING] Sent to ali: SYSTEM: ali is now the coordinator.
+2024/04/05 20:48:16 [OUTGOING] System broadcast: ali is now the coordinator.
+2024/04/05 20:48:30 [INCOMING] Received from ali: QUIT
+2024/04/05 20:48:30 [OUTGOING] Session ended for user ali
+2024/04/05 20:48:30 [OUTGOING] System broadcast: ali has left the chat.
