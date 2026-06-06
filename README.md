@@ -80,8 +80,8 @@ This project leverages several fundamental design patterns for a clean, maintain
 
 1.  **Clone the Repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/w4el/Java-Multithreaded-Socket-Chat.git
+    cd Java-Multithreaded-Socket-Chat
     ```
 
 2.  **Build the Project:**
@@ -93,17 +93,14 @@ This project leverages several fundamental design patterns for a clean, maintain
 3.  **Step 1: Run the Server**
     You must start the server first. Run the `Server` main class from your IDE or using the compiled JAR.
     ```sh
-    # Replace 'your-project.jar' with the name of the JAR in your /target folder
-    # Replace 'com.example.Server' with your actual package and class name
-    java -cp target/your-project.jar com.example.Server
+    java -cp target/COMP1549AdvancedProgramming-1.1-SNAPSHOT.jar server.Server
     ```
     The server will start and log that it is waiting for connections.
 
 4.  **Step 2: Run the Client(s)**
     With the server running, you can now launch one or more client instances.
     ```sh
-    # Run the Client main class
-    java -cp target/your-project.jar com.example.Client
+    java -cp target/COMP1549AdvancedProgramming-1.1-SNAPSHOT.jar client.Client
     ```
     * The GUI will appear.
     * Enter the server's IP address (e.g., `127.0.0.1` for localhost) and the port the server is listening on.
